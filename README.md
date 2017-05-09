@@ -14,7 +14,8 @@ This plugin fetches categories from external API. It has been scheduled to look 
 ## Pending Work
 
 *If categories are deleted on the API, it will not reflect in WP. I left it because it was not mention in the task
-*Disabling adding of categories. There is no straight forwarded method. Could be use jquery to hide the form.
+
+*Disable adding of categories
 
 ### My Thoughts
 
@@ -23,6 +24,6 @@ related to importing taxonomies and managing directly outside using a single sys
 
 ### Time Taken
 
-It took 2.5 hours in total that's include uploading to git.
+It took 2.5 hours in total including testing and uploading to git
 
 
